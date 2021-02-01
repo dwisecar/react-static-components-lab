@@ -14,7 +14,7 @@ components/source files shouldn't need any alterations.
 Begin with `npm install`. Examine what is rendering in the browser
 with `npm start`. You should see an error we need to fix!
 
-Once we properly render the other three components: `CatComponent`,
+Once we properly render the other three components: `CatComponent`, 
 `GraceHopperQuoteComponent`, and `MouseComponent` in `App`, we will have the flag of
 the [Federal Republic of Germany][deutschland], the birthplace of [the first fully
 automatic, programmable, digital computer][computer]! 
